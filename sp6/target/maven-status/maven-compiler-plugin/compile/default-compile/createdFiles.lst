@@ -1,0 +1,7 @@
+service\BooksFacadeREST.class
+com\mycompany\sp6\Books.class
+com\mycompany\sp6\Lidi.class
+com\mycompany\sp6\Books_.class
+service\LidiFacadeREST.class
+service\AbstractFacade.class
+com\mycompany\sp6\Lidi_.class
